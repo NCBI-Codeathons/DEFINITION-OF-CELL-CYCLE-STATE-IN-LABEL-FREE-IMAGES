@@ -10,5 +10,11 @@ Many cellular process are modulated by or in concert with the progression of the
 
 # Results
 ![tiles](img_tile2.png)
+![tiles](norm_epoch4350.png)
+![tiles](norm_epoch4400.png)
+![tiles](norm_epoch4450.png)
+![tiles](norm_epoch4900.png)
+
+
 
 **Team Leads:** Murat Can Çobanoğlu, PhD and Tadamoto Isogai, PhD, Lyda Hill 
